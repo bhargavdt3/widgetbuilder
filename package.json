@@ -1,0 +1,25 @@
+{
+  "name": "widgetbuilder",
+  "version": "1.0.0",
+  "description": "Drag and create containers, The code generation is taken care by widgetbuilder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhargavdt3/widgetbuilder.git"
+  },
+  "keywords": [
+    "js",
+    "widgetbulder",
+    "vinila",
+    "js"
+  ],
+  "author": "Bhargav Yadati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhargavdt3/widgetbuilder/issues"
+  },
+  "homepage": "https://github.com/bhargavdt3/widgetbuilder#readme"
+}
